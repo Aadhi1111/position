@@ -1,0 +1,27 @@
+#properties{
+    background-color:lightblue;
+    margin-left:500px;
+    margin-right: 500px;
+    margin-top:500px;
+    margin-bottom:500px;
+    border:10px solid green;
+    color:brown;
+    font-size: 50px;
+    font-style:oblique
+}
+.links{
+    margin-left:150px;
+    margin-right:100px;
+    color:violet;
+    font-size:50px;
+    font-style: italic;
+}
+.position{
+    margin:500px;
+    font-size:50px;
+    font-weight:bold;
+    color:green;
+    background-color:blue;
+    border-bottom: 50px;
+    border: 20px solid green;
+}
